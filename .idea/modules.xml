@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amicable.iml" filepath="$PROJECT_DIR$/.idea/modules/amicable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amicable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amicable_main.iml" group="amicable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amicable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amicable_test.iml" group="amicable" />
+    </modules>
+  </component>
+</project>
